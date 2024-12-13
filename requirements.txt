@@ -1,0 +1,5 @@
+requests==2.31.0
+moviepy==1.0.3
+Pillow==9.4.0
+yt-dlp==2024.12.06
+SpeechRecognition==3.12.0

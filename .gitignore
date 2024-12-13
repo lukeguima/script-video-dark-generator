@@ -1,0 +1,10 @@
+/src/secrets
+/venv
+/temp
+/assets/videos
+/output
+/*.mp3
+/__pycache__
+/src/generator/cinco_fatos/__pycache__
+/src/generator/cortes/__pycache__
+/src/utils/__pycache__
